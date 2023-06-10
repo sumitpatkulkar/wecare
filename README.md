@@ -1,4 +1,4 @@
-###wecare is web application for sunita who is 65+ years old woman to help her to live healthy and happy life
+###wecare is web application for who are 65+ years old to help them to live healthy and happy life
 #Web site home page url 
 --
 
