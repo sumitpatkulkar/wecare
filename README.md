@@ -11,13 +11,21 @@ and feel socially active
 #features
 
 *daily morning yoga and meditation
+
 *Birthday celebration
+
 *Cultural Nights
+
 *Comedy Shows
+
 *Group Tours
 
 #again we provide some conveniences services
+
 *Book cab
+
 *Buy groceries
+
 *call Physiotherapists
+
 *hire maid
