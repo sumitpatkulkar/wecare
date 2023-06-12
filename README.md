@@ -1,10 +1,10 @@
-###wecare is web application for who are 65+ years old to help them to live healthy and happy life
+WECARE is web application for who are 65+ years old to help them to live healthy and happy life
+
 #Web site home page url 
 https://sumitpatkulkar.github.io/wecare/
 --
 
-
-#description
+#Description
 --
 This website helps to make elder person happy through various ways so that elderly person not fill lonely
 and feel socially active
